@@ -29,7 +29,7 @@
 	{
 		position: relative;
 		min-height: 20em;
-		overflow: hidden;
+		overflow: visible;
 	}
 	
 		.image.featured img
