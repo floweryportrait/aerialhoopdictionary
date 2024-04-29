@@ -35,7 +35,7 @@
 		.image.featured img
 		{
 			position: relative;
-			height: 10em;
+			height: 20em;
 			width: auto;
 			/*
 				Stuff below is automatically calculated using JS. It sucks, but there
